@@ -1,0 +1,48 @@
+C++ 
+
+--> C++ is a general purpose statically typed  object orientated language. 
+
+--> IDE (Integrated development environment)(VS Code)
+
+--> compiler for C++ 
+
+We need mingw-64 software ( link : https://sourceforge.net/projects/mingw-w64/)
+once installed double click to open and keep on clicking next.
+Go to -->This PC --> windows C --> minGW --> bin (copy the path).
+Go to environment variables --> path --> new --> (now add the path here) and ok .
+
+--> Now install VS code .
+
+In vs code download some extensions.
+
+download c/c++  and code runner 
+
+How to run the c++ file :
+
+--> create a file main.cpp 
+--> write some code 
+--> in terminal g++ main.cpp
+--> a.exe will be created 
+--> .\a.exe
+--> output will be displayed in the terminal 
+
+
+variables : 
+Variables are containers to store data 
+
+Integer Types: int, short, long, long long
+Floating-Point Types: float, double, long double
+Character Type: char
+Boolean Type: bool
+Wide Character Type: wchar_t
+
+public private and protected are access modifiers
+
+public : anyone can access 
+private : can be accessed inside the class only
+protected  : can be accessed in subclass only 
+
+
+
+
+

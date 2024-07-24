@@ -1,0 +1,39 @@
+concept 1 : Printing hello world 
+file : helloworld.cpp
+
+concept 2 : variables in C++
+file : variables.cpp
+
+concept 3 : Taking input from the user 
+file :  userinput.cpp
+
+concept 4 : Basic operators in c++ 
+file : operators.cpp
+
+concept 5 : conditionals in c++ 
+file : conditionals.cpp
+
+concept 6 : switch cases in c++ 
+file : switch.cpp
+
+concept 7 : loops in c++ 
+file : loops.cpp
+
+concept 7 : functions in c++ 
+file : functions.cpp
+
+concept 8 : arrays in c++ 
+file : arrays.cpp
+
+concept 9 : typecasting in c++ 
+file : typecasting.cpp
+
+concept 10 : strings in c++ 
+file : strings.cpp
+
+concept 11 : pointers in c++ 
+file : pointers.cpp
+
+concept 12 :  classes in c++ 
+file : classes.cpp
+
